@@ -10,3 +10,5 @@ Simple client side form validation. Check required, length, email and password m
 - checkLength() to check min and max length
 - checkEmail() to validate email with regex
 - checkPasswordsMatch() to match confirm password
+
+![image](https://user-images.githubusercontent.com/104357417/220633536-c84e3efe-5eb4-4025-a605-e51a9b1614aa.png)
