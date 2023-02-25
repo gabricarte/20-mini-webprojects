@@ -11,3 +11,4 @@ Display movie choices and seats in a theater to select from in order to purchase
 - Number of seats and price will update
 - Save seats, movie and price to local storage so that UI is still populated on refresh
 
+![image](https://user-images.githubusercontent.com/104357417/221008203-0445f02a-a4fe-4f5f-a5f5-7ff3d2c82bed.png)
